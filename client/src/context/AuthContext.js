@@ -3,6 +3,13 @@ import axios from 'axios';
 
 const AuthContext = createContext();
 
+// Set axios baseURL: use env var in production, fallback to localhost proxy in dev
+const API_BASE = process.env.REACT_APP_API_URL || 
+  (window.location.hostname === 'localhost' ? '' : 'https://verifyx-backend-e62z.onrender.com');
+if (API_BASE) {
+  axios.defaults.baseURL = API_BASE;
+}
+
 export const useAuth = () => {
   const context = useContext(AuthContext);
   if (!context) {
@@ -15,9 +22,6 @@ export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
   const [token, setToken] = useState(localStorage.getItem('token'));
-
-  // Don't set baseURL - let the proxy handle it
-  // The proxy in package.json will route /api/* to http://localhost:5000
 
   useEffect(() => {
     if (token) {
