@@ -15,5 +15,6 @@ beautifulsoup4>=4.12.0
 requests>=2.31.0
 gunicorn>=21.2.0
 easyocr>=1.7.0
-python-bidi==0.6.7
-easyocr==1.7.2
+lxml>=4.9.0
+urllib3>=2.0.0
+chardet>=5.0.0
