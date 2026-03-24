@@ -1,0 +1,16 @@
+node_modules/
+.env
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+dist/
+build/
+.vscode/
+.idea/
+*.pem
+ai_model/models/*.h5
+ai_model/models/*.pkl
+ai_model/models/*.npz
+ai_model/datasets/
+client/build/

@@ -1,0 +1,6 @@
+{
+    "model_type": "RandomForest",
+    "n_estimators": 100,
+    "img_size": 224,
+    "training_date": "2026-03-10"
+}

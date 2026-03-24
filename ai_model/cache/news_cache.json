@@ -1,0 +1,810 @@
+{
+  "timestamp": "2026-03-24T20:45:09.000694",
+  "articles": {
+    "BBC News": [
+      {
+        "source": "BBC News",
+        "title": "Reeves plans energy bill help for those 'who need it most'",
+        "summary": "The US-Israel war with Iran is having an impact on costs domestically, with oil and gas prices soaring.",
+        "link": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 14:58:41 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Son of Nottingham attacks victim found out father had died through Instagram",
+        "summary": "Ian Coates, 65, was stabbed to death by Valdo Calocane in the early hours of 13 June 2023.",
+        "link": "https://www.bbc.com/news/articles/cgld4w7dlkdo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 14:38:35 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "First-time buyers hit as mortgage rates keep rising",
+        "summary": "More than 200 first-time buyer deals have disappeared from the market since 6 March, with more upheaval expected.",
+        "link": "https://www.bbc.com/news/articles/c5y7gnkez3lo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 11:05:59 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Transgender girls told to leave Girlguiding groups by September",
+        "summary": "It follows an announcement in December that transgender members would be banned from joining.",
+        "link": "https://www.bbc.com/news/articles/cx2rn250ddjo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 13:32:10 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Married at First Sight star Mel Schilling dies at 54",
+        "summary": "The TV dating coach's husband says she \"passed away peacefully today, surrounded by love\".",
+        "link": "https://www.bbc.com/news/articles/c8ejk0z430jo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 13:14:52 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Bafta TV Award nominations revealed as Adolescence leads field",
+        "summary": "Adolescence has the most nominations overall with 11, followed by A Thousand Blows with seven.",
+        "link": "https://www.bbc.com/news/articles/cvg04rp5vlko?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 14:57:36 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Oil traders bet millions minutes before Trump's Iran talks post",
+        "summary": "Market data shows the amount of oil trade rose before the US President said he would postpone attacks on Iran's power plants.",
+        "link": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 13:35:46 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Villagers 'proud' after overturning council's crackdown on second homes",
+        "summary": "Second homes and how to deal with growing numbers is a hot topic in parts of Wales.",
+        "link": "https://www.bbc.com/news/articles/cx2dxz4nejpo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 06:34:44 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Vets must publish prices and pet prescription fees to be capped at £21, watchdog says",
+        "summary": "Vets will have to publish price lists for services under measures from the UK's competition watchdog.",
+        "link": "https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 09:47:18 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC News",
+        "title": "Shop owner gets £100 and apology 15 years after student stole sign",
+        "summary": "The former student admitted stealing the sign after \"a night of drinking\".",
+        "link": "https://www.bbc.com/news/articles/clydvm19g35o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 06:25:56 GMT",
+        "tags": []
+      }
+    ],
+    "BBC India": [
+      {
+        "source": "BBC India",
+        "title": "UK universities flock to India - but will they succeed?",
+        "summary": "Nine UK universities are setting up campuses in India, but enrolment is expected to be modest initially.",
+        "link": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 24 Mar 2026 00:10:24 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "Germany has a shortage of workers - so it's turning to India for help",
+        "summary": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
+        "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 23 Mar 2026 00:03:25 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "The forgotten Indian woman trailblazer in British medicine",
+        "summary": "In 1912, Jamini Sen became the first woman Fellow of Glasgow’s Royal College, founded in 1599 and long closed to women.",
+        "link": "https://www.bbc.com/news/articles/cy9gz8d075no?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Mar 2026 00:42:47 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "US hints at easing Iran oil curbs - what it means for India",
+        "summary": "India was a major buyer of Iranian crude, peaking at about 11.5% of its total purchase, before 2018 sanctions tightened.",
+        "link": "https://www.bbc.com/news/articles/c6243nkg1w3o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 20 Mar 2026 07:12:57 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
+        "summary": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.",
+        "link": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 20 Mar 2026 00:59:29 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+        "summary": "India emerges as a key destination as Iran-linked ships account for a third of Hormuz crossings despite attacks.",
+        "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 20 Mar 2026 00:04:57 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "India's young are more educated than ever. So why are so many jobless?",
+        "summary": "India’s educational enrolment has surged but jobs, especially good ones, are not keeping pace, a new report finds.",
+        "link": "https://www.bbc.com/news/articles/c17841zez8wo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 19 Mar 2026 00:02:04 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "India's ceramic hub grinds to a halt as Iran war chokes gas supply",
+        "summary": "Manufacturers stopped operations after supplies of propane and natural gas reduced sharply in recent days.",
+        "link": "https://www.bbc.com/news/articles/cgrzr9ynpn1o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 19 Mar 2026 08:48:08 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "Will the Iran war squeeze India's piped gas next?",
+        "summary": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+        "link": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 18 Mar 2026 05:45:58 GMT",
+        "tags": []
+      },
+      {
+        "source": "BBC India",
+        "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+        "summary": "With India’s semaglutide patent expiring on 20 March, about 50 branded generics are expected to enter the market.",
+        "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 18 Mar 2026 00:30:49 GMT",
+        "tags": []
+      }
+    ],
+    "CNN": [
+      {
+        "source": "CNN",
+        "title": "Trump pleads not guilty to 34 felony counts",
+        "summary": "Trump pleads not guilty to 34 felony counts",
+        "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+        "published": "",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Haberman reveals why Trump attacked judge and his family in speech",
+        "summary": "CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.",
+        "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
+        "published": "Wed, 05 Apr 2023 13:30:09 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "What to know about the Trump indictment on the eve of his court appearance",
+        "summary": "What to know about the Trump indictment on the eve of his court appearance",
+        "link": "https://www.cnn.com/collections/intl-trump-040223/",
+        "published": "Wed, 05 Apr 2023 22:50:06 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "READ: Trump indictment related to hush money payment",
+        "summary": "READ: Trump indictment related to hush money payment",
+        "link": "https://cnn.it/411KYN7",
+        "published": "",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+        "summary": "Russian authorities detain suspect over St. Petersburg cafe blast",
+        "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
+        "published": "",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Video shows moment of deadly explosion at cafe in Russia",
+        "summary": "A well-known Russian military blogger, Vladlen Tatarsky, was killed in an explosion at a cafe in St. Petersburg, authorities said. CNN's Matthew Chance reports.",
+        "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
+        "published": "Tue, 04 Apr 2023 01:08:44 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+        "summary": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+        "link": "https://www.cnn.com/collections/intl-ukraine-030423/",
+        "published": "Mon, 03 Apr 2023 13:58:58 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+        "summary": "The suspected Chinese spy balloon that transited the US earlier this year was able to capture imagery and collect some signals intelligence from US military sites, a source familiar with the matter tells CNN.",
+        "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
+        "published": "Mon, 03 Apr 2023 13:38:22 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+        "summary": "An anticipated meeting between Taiwan's President Tsai Ing-wen and US House Speaker Kevin McCarthy in California this week has sparked concerns of a repeat of the pressure campaign China launched last year when then-Speaker Nancy Pelosi visited Taipei.",
+        "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
+        "published": "Tue, 04 Apr 2023 07:49:53 GMT",
+        "tags": []
+      },
+      {
+        "source": "CNN",
+        "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+        "summary": "A young volunteer soldier, Akula, who signed up for the war at the beginning of the Russian invasion is now dealing with the trauma of war. He spoke to CNN's David McKenzie about his time on the front lines and how it has affected his mental health.",
+        "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+        "published": "Mon, 03 Apr 2023 12:13:24 GMT",
+        "tags": []
+      }
+    ],
+    "Times of India": [
+      {
+        "source": "Times of India",
+        "title": "Is Saudi Arabia calling the shots? Crown Prince MBS urging Trump to keep Iran war alive - report",
+        "summary": "Saudi Crown Prince Mohammed bin Salman is reportedly urging US President Trump to escalate military action against Iran, viewing it as a chance to reshape the Middle East.  He believes removing Iran's current government is key to addressing the threat to Gulf nations.  However, Riyadh officially denies pushing for war, emphasizing a peaceful resolution and self-defense against Iranian attacks.",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/is-saudi-arabia-calling-the-shots-crown-prince-mbs-urging-trump-to-keep-iran-war-alive-report/articleshow/129779129.cms",
+        "published": "Tue, 24 Mar 2026 19:51:16 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "'US will never give up the Moon again': Nasa plans lunar base, n-powered spacecraft to Mars",
+        "summary": "NASA unveiled ambitious initiatives to accelerate its return to the Moon, aiming for a lunar landing by the end of President Trump's term and establishing a long-term presence. The agency's updated Moon strategy focuses on a phased approach to building a lunar base, incorporating commercial and international partnerships to support frequent crewed missions and sustained human operations.",
+        "link": "https://timesofindia.indiatimes.com/science/us-will-never-give-up-the-moon-again-nasa-unveils-lunar-base-roadmap-nuclear-mars-mission/articleshow/129778955.cms",
+        "published": "Tue, 24 Mar 2026 19:44:42 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "'Kill network': China sees red as Japan deploys upgraded long-range Type-12 missiles",
+        "summary": "China's PLA has condemned Japan's planned deployment of upgraded Type-12 missiles, warning of a \"kill network\" targeting coastal and inland areas. This move, aimed at deterring China in a Taiwan conflict, expands Japan's long-range strike capabilities, raising regional tensions.",
+        "link": "https://timesofindia.indiatimes.com/defence/international/kill-network-china-sees-red-as-japan-deploys-upgraded-long-range-type-12-missiles/articleshow/129774830.cms",
+        "published": "Tue, 24 Mar 2026 17:34:53 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "Decoding DhuranDHAR Derangement Syndrome: Bollywood finally learns the art of myth-making",
+        "summary": "From agitprop accusations to civilisational storytelling: why Dhurandhar duology has struck such a nerve...",
+        "link": "https://timesofindia.indiatimes.com/india/dhurandhar-derangement-syndrome-bollywood-aditya-dhar/articleshow/129779123.cms",
+        "published": "Tue, 24 Mar 2026 19:47:25 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "Google president Ruth Porat may have just agreed with Elon Musk’s ‘big AI worry’",
+        "summary": "Tech leaders like Google's Ruth Porat and Elon Musk are raising alarms about America's energy infrastructure's ability to support AI's rapid growth.  Massive investments in AI data centers are straining power supplies, prompting tech giants to pledge to cover their own energy costs and explore diverse power sources, including advanced nuclear.",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-president-ruth-porat-may-have-just-agreed-with-elon-musks-big-ai-worry-for-which-big-tech-is-spending-billions/articleshow/129772682.cms",
+        "published": "Tue, 24 Mar 2026 15:17:45 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "Indian-origin liquor store owner faces 39 charges in US; offered drugs to underage girls",
+        "summary": "Indian-origin liquor store owner faces 39 charges in US; offered drugs to underage girls",
+        "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-liquor-store-owner-kulvir-brar-faces-39-charges-in-us-offered-underage-girls-drugs-for-sex/articleshow/129777273.cms",
+        "published": "Tue, 24 Mar 2026 18:23:52 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "'God's plan': KKR name Rinku Singh as vice-captain ahead of IPL 2026",
+        "summary": "'God's plan': KKR name Rinku Singh as vice-captain ahead of IPL 2026",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/gods-plan-kolkata-knight-riders-name-rinku-singh-as-vice-captain-ahead-of-ipl-2026/articleshow/129779122.cms",
+        "published": "Tue, 24 Mar 2026 19:47:54 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "H-1B visa registrations dip 30-50%: List of cos emerging as ‘favourites’ in new system",
+        "summary": "H-1B visa registrations for FY27 have plummeted by 30-50%, driven by higher fees and a new lottery prioritizing wages. This shift benefits mid-tier IT firms and US Master's graduates, while large outsourcing companies face reduced dominance. The recalibration signals a move towards quality talent and increased costs for employers.",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-h-1b-visa-registration-dip-30-50-here-are-the-companies-that-are-emerging-as-favourites-in-the-new-system/articleshow/129747330.cms",
+        "published": "Mon, 23 Mar 2026 14:14:47 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "'Dhurandhar 2' box office Day 6: Ranveer Singh film eyes Rs 650 cr India gross milestone",
+        "summary": "'Dhurandhar 2: The Revenge' continues its historic dominance at the box office, amassing a staggering Rs. 844.76 crore in worldwide gross collections. This global haul is fueled by a robust Rs. 619.76 crore from the domestic Indian market and a powerful Rs. 225.00 crore from overseas territories. Currently, the high-octane sequel has already secured a domestic net collection of Rs. 519.12 crore, firmly establishing it as one of the fastest Indian films to reach these elite milestones.",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-6-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-starrer-spy-thriller-eyes-rs-650-crore-india-gross-milestone/articleshow/129769943.cms",
+        "published": "Tue, 24 Mar 2026 13:08:26 +0530",
+        "tags": []
+      },
+      {
+        "source": "Times of India",
+        "title": "All about the actor who played Shirani Baloch in 'Dhurandhar: The Revenge'",
+        "summary": "Aditya Dhar's spy thriller storms box office with Ranveer Singh, Arjun Rampal. Bimal Oberoi, actor-producer (PK, Tiger 3), plays radical leader inspired by Maulana Shirani &amp; Akbar Bugti. Short but powerful role adds tension.",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-bimal-oberoi-all-about-the-actor-who-played-shirani-baloch-in-ranveer-singhs-dhurandhar-the-revenge/articleshow/129776427.cms",
+        "published": "Tue, 24 Mar 2026 17:40:08 +0530",
+        "tags": []
+      }
+    ],
+    "Times of India India": [
+      {
+        "source": "Times of India India",
+        "title": "Times Top10: ‘Right to use force’ pitch for Xi’s future",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94905554.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94900958.cms",
+        "published": "2022-10-17T08:27:30+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Times Top10: Can a global recession be predicted?",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94409103.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94404195,card-94404297.cms",
+        "published": "2022-09-24T08:29:38+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Times Top10: Was Hyderabad ‘integrated’ or ‘liberated’?",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94258440.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94253700.cms",
+        "published": "2022-09-17T08:27:17+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Times Top10: It’s T-shirts vs shorts between Congress and BJP",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94165187.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://m.timesofindia.com/apptimestopten",
+        "published": "2022-09-13T08:37:31+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Corona Letter: Psychological distress is a big risk factor for long Covid",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94094633.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/coronabytes.cms",
+        "published": "2022-09-09T14:04:35+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Top10: Is CAA constitutionally valid?",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/94087725.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-94081044.cms",
+        "published": "2022-09-09T08:37:28+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Top10: Why IMF needs to bail out Pakistan again",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/93844624.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-93838625.cms",
+        "published": "2022-08-29T08:29:06+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Top10: What is a freebie and what is welfare, SC asks",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/93742943.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/india/timestopten/msid-93737639.cms",
+        "published": "2022-08-24T08:42:10+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "Top10: Was Rs 1000 crore spent to promote a Rs 2 tablet?",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/93650669.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://m.timesofindia.com/apptimestopten",
+        "published": "2022-08-19T08:34:21+05:30",
+        "tags": []
+      },
+      {
+        "source": "Times of India India",
+        "title": "News brief: Jacqueline Fernandez named as accused by ED",
+        "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/93621472.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />",
+        "link": "https://timesofindia.indiatimes.com/dailybrief/93620508.cms",
+        "published": "2022-08-17T19:43:03+05:30",
+        "tags": []
+      }
+    ],
+    "NDTV": [
+      {
+        "source": "NDTV",
+        "title": "5 Bullets, 'Human Sacrifice': More Skeletons In Nashik Astrologer's Closet",
+        "summary": "Kharat had allegedly raped multiple women and threatened them",
+        "link": "https://www.ndtv.com/india-news/ashok-kharat-5-bullets-human-sacrifice-more-skeletons-in-nashik-astrologers-closet-11260575#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 20:10:02 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "President's Office Again Snubs Trinamool's Meeting Request Over Protocol Row",
+        "summary": "A response dated March 11 turned down the request, citing time constraints.",
+        "link": "https://www.ndtv.com/india-news/presidents-office-again-snubs-trinamools-meeting-request-over-protocol-row-11259722#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 20:07:57 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Harish Rana, 1st Indian To Be Allowed Passive Euthanasia, Dies After 13 Years In Coma",
+        "summary": "Harish Rana, 1st Indian To Be Allowed Passive Euthanasia, Dies After 13 Years In Coma",
+        "link": "https://www.ndtv.com/india-news/harish-rana-1st-indian-to-be-allowed-passive-euthanasia-dies-after-13-years-in-coma-11260253#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 20:02:30 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "\"A Head For An Eye\": Iran Warns Trump That US' \"Final Deadline\" Is Near",
+        "summary": "Iranian officials have dismissed the idea of negotiations as \"fake news\"",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-a-head-for-an-eye-iran-mohsen-rezaei-warns-donald-trump-that-us-final-deadline-is-near-11260550#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 20:01:29 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "On Camera, Rajasthan Actor, 30, Dies As Car Crashes Into Divider In Jaipur",
+        "summary": "CCTV footage shows the vehicle crashing into the divider and flipping on its left side.",
+        "link": "https://www.ndtv.com/india-news/on-camera-rajasthan-actor-30-dies-as-car-crashes-into-divider-in-jaipur-11260728#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 19:43:34 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Centre May Delay Bills On Women's Quota, Not Table Them This Session: Sources",
+        "summary": "The special parliament session can be held after a short recess following the Budget Session.",
+        "link": "https://www.ndtv.com/india-news/centre-may-delay-bills-on-womens-quota-not-table-them-this-session-sources-11260499#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 19:41:35 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Charred Body Of Ex-Karnataka MLA's Son Found In Car, Murder Suspected",
+        "summary": "The police have launched a manhunt to trace the accused and are investigating all possible leads.",
+        "link": "https://www.ndtv.com/india-news/charred-body-of-ex-karnataka-mlas-son-found-in-car-murder-suspected-11260520#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 19:12:55 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Stock Market Highlights: Sensex Closes 1,300 Points Higher As US Pauses Strike On Iran",
+        "summary": "Sensex Today | Stock Market Highlights: Markets ended in green on Tuesday.",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-today-24th-march-2026-sensex-nifty-gift-iran-war-us-trump-ceasefire-oil-gold-silver-price-stock-news-11257431#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 19:03:34 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Wanted Maoist 'Papa Rao' To Surrender As Amit Shah's Ops Deadline Nears",
+        "summary": "Papa Rao carried a bounty of Rs 25 lakh on his head",
+        "link": "https://www.ndtv.com/india-news/chhattisgarh-wanted-maoist-papa-rao-gives-up-arms-as-amit-shah-ops-deadline-nears-11259577#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 18:49:25 +0530",
+        "tags": []
+      },
+      {
+        "source": "NDTV",
+        "title": "Odisha's Most Wanted Maoist Leader Sukru, Carrying Rs 55 Lakh Bounty, Gives Up Arms",
+        "summary": "The surrender came as the Centre's March 31 deadline to end Left-Wing Extremism approaches.",
+        "link": "https://www.ndtv.com/india-news/odishas-most-wanted-maoist-leader-sukru-carrying-rs-55-lakh-bounty-gives-up-arms-11260039#publisher=newsstand",
+        "published": "Tue, 24 Mar 2026 18:37:04 +0530",
+        "tags": []
+      }
+    ],
+    "Indian Express": [
+      {
+        "source": "Indian Express",
+        "title": "Informal sector pay rose just 4% in 2025, 32% fewer jobs added",
+        "summary": "Informal sector pay rose just 4% in 2025, 32% fewer jobs added",
+        "link": "https://indianexpress.com/article/business/india-informal-sector-pay-growth-2025-asuse-survey-10599155/",
+        "published": "Tue, 24 Mar 2026 14:50:43 +0000",
+        "tags": [
+          "Business"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Tucker Carlson: How a long-time Trump ally became the face of MAGA rupture",
+        "summary": "Tucker Carlson: How a long-time Trump ally became the face of MAGA rupture",
+        "link": "https://indianexpress.com/article/explained/explained-global/tucker-carlson-vs-trump-iran-war-maga-split-10599102/",
+        "published": "Tue, 24 Mar 2026 14:49:05 +0000",
+        "tags": [
+          "Explained",
+          "Explained Global"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Cricket Ireland to allow players to skip Afghanistan series amid ‘moral discomfort’ of hosting five home ODIs",
+        "summary": "Cricket Ireland to allow players to skip Afghanistan series amid ‘moral discomfort’ of hosting five home ODIs",
+        "link": "https://indianexpress.com/article/sports/cricket/ireland-cricketers-can-boycott-afghanistan-home-odi-series-10599094/",
+        "published": "Tue, 24 Mar 2026 14:39:51 +0000",
+        "tags": [
+          "Cricket",
+          "Sports"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Who is Mohammad Bagher Zolghadr, Iran’s new top security official, after Larijani’s assassination?",
+        "summary": "Who is Mohammad Bagher Zolghadr, Iran’s new top security official, after Larijani’s assassination?",
+        "link": "https://indianexpress.com/article/world/iran-names-mohammad-bagher-zolghadr-snsc-chief-ali-larijani-successor-trump-ultimatum-10599061/",
+        "published": "Tue, 24 Mar 2026 14:38:21 +0000",
+        "tags": [
+          "World"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Govt measures have helped mitigate LPG crisis, says Vaishnaw; oil ministry says large number of LPG cargoes lined up",
+        "summary": "Govt measures have helped mitigate LPG crisis, says Vaishnaw; oil ministry says large number of LPG cargoes lined up",
+        "link": "https://indianexpress.com/article/business/govt-measures-mitigate-lpg-crisis-west-asia-war-ashwini-vaishnaw-10599121/",
+        "published": "Tue, 24 Mar 2026 14:38:20 +0000",
+        "tags": [
+          "Business"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "MBBS student who lost borrowed money to online gaming dies by suicide in Karnataka",
+        "summary": "MBBS student who lost borrowed money to online gaming dies by suicide in Karnataka",
+        "link": "https://indianexpress.com/article/cities/bangalore/mbbs-student-who-lost-money-in-online-gaming-dies-by-suicide-in-karnatakas-bidar-10599119/",
+        "published": "Tue, 24 Mar 2026 14:37:59 +0000",
+        "tags": [
+          "Bangalore",
+          "Cities"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Markets rise 1.9% on Trump’s ceasefire; investors still on the edge",
+        "summary": "Markets rise 1.9% on Trump’s ceasefire; investors still on the edge",
+        "link": "https://indianexpress.com/article/business/markets-rise-1-9-on-trump-ceasefire-investors-on-edge-10599127/",
+        "published": "Tue, 24 Mar 2026 14:36:15 +0000",
+        "tags": [
+          "Business"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "Telangana offers major discounts on EVs for govt employees",
+        "summary": "Telangana offers major discounts on EVs for govt employees",
+        "link": "https://indianexpress.com/article/cities/hyderabad/telangana-discounts-ev-govt-employees-10599125/",
+        "published": "Tue, 24 Mar 2026 14:34:55 +0000",
+        "tags": [
+          "Cities",
+          "Hyderabad"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "4 new fire stations,6 more skylifts: Delhi Fire Service budget raised to Rs 674 cr in push to modernise infra",
+        "summary": "4 new fire stations,6 more skylifts: Delhi Fire Service budget raised to Rs 674 cr in push to modernise infra",
+        "link": "https://indianexpress.com/article/cities/delhi/delhi-fire-service-budget-increase-2026-27-bronto-skylift-10599120/",
+        "published": "Tue, 24 Mar 2026 14:33:18 +0000",
+        "tags": [
+          "Cities",
+          "Delhi"
+        ]
+      },
+      {
+        "source": "Indian Express",
+        "title": "The bhindi beauty hack: Why okra doesn’t belong on your face",
+        "summary": "The bhindi beauty hack: Why okra doesn’t belong on your face",
+        "link": "https://indianexpress.com/article/lifestyle/life-style/curd-bhindi-okra-paste-skin-whitening-skincare-risk-9522042/",
+        "published": "Tue, 24 Mar 2026 14:30:37 +0000",
+        "tags": [
+          "Life-style",
+          "Lifestyle"
+        ]
+      }
+    ],
+    "Hindustan Times": [
+      {
+        "source": "Hindustan Times",
+        "title": "Paparao, last active senior commander in Bastar region, also surrenders: Police",
+        "summary": "Paparao was a member of the Dandakaranya Special Zonal Committee (DKSZC) and was in charge of the South Sub Zonal Bureau",
+        "link": "https://www.hindustantimes.com/india-news/paparao-last-active-senior-commander-in-bastar-region-also-surrenderspolice-101774363380903.html",
+        "published": "Tue, 24 Mar 2026 20:13:00 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case",
+        "summary": "\"The petition, being devoid of merit, is dismissed,\" the judge said while pronouncing the verdict.",
+        "link": "https://www.hindustantimes.com/india-news/delhi-hc-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case-101774362670628.html",
+        "published": "Tue, 24 Mar 2026 20:04:55 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "Rajnath Singh directs military brass to draw lessons from Iran war",
+        "summary": "Singh was briefed on the latest global and regional security developments, the impact of a possible escalation of the ongoing conflict on India",
+        "link": "https://www.hindustantimes.com/india-news/rajnath-singh-directs-military-brass-to-draw-lessons-from-iran-war-101774361650179.html",
+        "published": "Tue, 24 Mar 2026 19:52:21 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "India “indispensable” for maintaining a free, open Indo-Pacific: Top US official",
+        "summary": "Colby is the second senior Trump administration official to visit India this month, after US deputy secretary of state Christopher Landau,",
+        "link": "https://www.hindustantimes.com/india-news/india-indispensable-for-maintaining-a-free-open-indo-pacific-top-us-official-101774361033131.html",
+        "published": "Tue, 24 Mar 2026 19:41:12 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "Harish Rana, first to be allowed passive euthanasia in India, dies at AIIMS",
+        "summary": "The Supreme Court earlier this month upheld the right to die for Harish Rana, a man from UP's Ghaziabad who has been in coma since a major fall in 2013.",
+        "link": "https://www.hindustantimes.com/india-news/harish-rana-first-to-be-allowed-passive-euthanasia-in-india-dies-at-aiims-101774350548956.html",
+        "published": "Tue, 24 Mar 2026 19:35:08 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "‘You can see results’: Rahul terms Modi's foreign policy ‘universal joke’ as Pakistan turns US-Iran mediator",
+        "summary": "Rahul Gandhi also pointedly objected to PM's references to the Covid pandemic when he spoke about the West Asia crisis in his speeches in Parliament this week",
+        "link": "https://www.hindustantimes.com/india-news/you-can-see-results-rahul-gandhi-terms-modis-foreign-policy-a-universal-joke-as-pakistan-turns-us-iran-mediator-101774358956176.html",
+        "published": "Tue, 24 Mar 2026 19:31:38 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "₹1,500 cr, 100 objectionable videos, political visits: Probe widens against Nashik Godman",
+        "summary": "The SIT probing cases against self-styled godman and rape accused Ashok Kharat has unearthed assets worth  ₹1,500 crore and 100 objectionable videos.&nbsp;",
+        "link": "https://www.hindustantimes.com/india-news/rs-1-500-cr-100-objectionable-videos-political-visits-probe-widens-against-nashik-godman-101774357161931.html",
+        "published": "Tue, 24 Mar 2026 19:25:01 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "BJP releases candidate list for TTAADC polls, inducts 5 leaders from ally TPC",
+        "summary": "Tripura BJP president Rajib Bhattacharjee said the party has decided to field candidates in all 28 seats of TTAADC and re-nominated seven sitting members",
+        "link": "https://www.hindustantimes.com/india-news/bjp-releases-candidate-list-for-ttaadc-polls-inducts-5-leaders-from-ally-tpc-101774360139459.html",
+        "published": "Tue, 24 Mar 2026 19:18:59 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "Parliament divided over Transgender bill: Govt hails reform, opposition calls it 'draconian'",
+        "summary": "Moving the bill for passage in the Lok Sabha, Social justice minister Virendra Kumar said it aims to ensure safety and extend benefits to the community",
+        "link": "https://www.hindustantimes.com/india-news/parliament-divided-over-transgender-bill-govt-hails-reform-opposition-calls-it-draconian-101774357710773.html",
+        "published": "Tue, 24 Mar 2026 19:02:30 +0530",
+        "tags": [
+          "india-news"
+        ]
+      },
+      {
+        "source": "Hindustan Times",
+        "title": "Indians ships, sailors in Gulf region safe amid US-Iran war says shipping ministry",
+        "summary": "Special Secretary in the Ministry of Shipping, Rajesh Sinha, said two Indian-flagged LPG carriers, Pine Gas and Jag Vasant, have already safely crossed Hormuz.",
+        "link": "https://www.hindustantimes.com/india-news/indians-ships-sailors-in-gulf-region-safe-amid-us-iran-war-says-shipping-ministry-101774357293651.html",
+        "published": "Tue, 24 Mar 2026 18:36:46 +0530",
+        "tags": [
+          "india-news"
+        ]
+      }
+    ],
+    "The Hindu": [
+      {
+        "source": "The Hindu",
+        "title": "Assembly Elections LIVE: DMK allocates 10 seats for  Premallatha Vijayakant led DMDK in T.N. polls",
+        "summary": "The poll authority also met with the Multi-Departmental Committee on Election Intelligence (MDCEI) to enhance coordination, curb illegal activities, and ensure smooth, secure, violence-free and inducement-free elections across poll-bound States.",
+        "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-24-2026/article70778149.ece",
+        "published": "Tue, 24 Mar 2026 20:34:37 +0530",
+        "tags": [
+          "Elections"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Three get life imprisonment for murdering temple priest",
+        "summary": "Three get life imprisonment for murdering temple priest",
+        "link": "https://www.thehindu.com/news/cities/Madurai/three-get-life-imprisonment-for-murdering-temple-priest/article70780604.ece",
+        "published": "Tue, 24 Mar 2026 20:34:10 +0530",
+        "tags": [
+          "Madurai"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Konkan Railway’s merger with Indian Railways essential to address KRCL’s structural problems and development of the West Coast, says Capt. Chowta",
+        "summary": "The MP wants the centre to formulate a comprehensive scientific coastal protection plan and release of funds to prevent massive sea erosion",
+        "link": "https://www.thehindu.com/news/cities/Mangalore/konkan-railways-merger-with-indian-railways-essential-to-address-krcls-structural-problems-and-development-of-the-west-coast-says-capt-chowta/article70780207.ece",
+        "published": "Tue, 24 Mar 2026 20:33:42 +0530",
+        "tags": [
+          "Mangaluru"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Iran-Israel war LIVE: PM Modi speaks to Trump, says India supports de-escalation and restoration of peace at the earliest",
+        "summary": "U.S. President Donald Trump hailed “very good” talks with an Iranian official; Tehran's parliamentary speaker, Mohammad Bagher Ghalibaf, reportedly involved in talks, said \"no negotiations\" were underway",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-24-2026-live-updates/article70778112.ece",
+        "published": "Tue, 24 Mar 2026 20:33:16 +0530",
+        "tags": [
+          "World"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "31 private engineering colleges ‘illegally charging’ additional fees: PAAP",
+        "summary": "31 private engineering colleges ‘illegally charging’ additional fees: PAAP",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/31-private-engineering-colleges-illegally-charging-additional-fees-paap/article70780372.ece",
+        "published": "Tue, 24 Mar 2026 20:32:01 +0530",
+        "tags": [
+          "Andhra Pradesh"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "UPSC achiever felicitated by alma mater in Kalaburagi",
+        "summary": "UPSC achiever felicitated by alma mater in Kalaburagi",
+        "link": "https://www.thehindu.com/news/national/karnataka/upsc-achiever-felicitated-by-alma-mater-in-kalaburagi/article70780276.ece",
+        "published": "Tue, 24 Mar 2026 20:31:56 +0530",
+        "tags": [
+          "Karnataka"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Meta alerts, police response: How Telangana is stopping suicide in minutes",
+        "summary": "Social media posts trigger real-time distress alerts; over 100 rescued as AI flags self-harm signals instantly",
+        "link": "https://www.thehindu.com/news/national/telangana/meta-alerts-police-response-how-telangana-is-stopping-suicide-in-minutes/article70780231.ece",
+        "published": "Tue, 24 Mar 2026 20:31:53 +0530",
+        "tags": [
+          "Telangana"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Kerala Assembly Elections 2026: ‘Wake Up Keralam’ mounts cultural challenge to NDA",
+        "summary": "Statewide platform of writers, artists and activists to counter fake propaganda, hate politics and communal consolidation of Sangh Parivar",
+        "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-wake-up-keralam-mounts-cultural-challenge-to-nda/article70780165.ece",
+        "published": "Tue, 24 Mar 2026 20:31:52 +0530",
+        "tags": [
+          "Kerala"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "KSDMA issues heat warning",
+        "summary": "KSDMA issues heat warning",
+        "link": "https://www.thehindu.com/news/national/kerala/ksdma-issues-heat-warning/article70780524.ece",
+        "published": "Tue, 24 Mar 2026 20:31:50 +0530",
+        "tags": [
+          "Kerala"
+        ]
+      },
+      {
+        "source": "The Hindu",
+        "title": "Two youths killed in bizarre accident",
+        "summary": "Two youths killed in bizarre accident",
+        "link": "https://www.thehindu.com/news/national/karnataka/two-youths-killed-in-bizarre-accident/article70780208.ece",
+        "published": "Tue, 24 Mar 2026 20:31:48 +0530",
+        "tags": [
+          "Karnataka"
+        ]
+      }
+    ],
+    "Reuters India": []
+  }
+}

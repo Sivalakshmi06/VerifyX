@@ -1,0 +1,41 @@
+# Training Requirements
+# Install with: pip install -r requirements_training.txt
+
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.30.0
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+albumentations>=1.3.0
+
+# OCR
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+
+# NLP
+nltk>=3.8.1
+textblob>=0.17.1
+langdetect>=1.0.9
+indic-nlp-library>=0.92
+
+# Deep Learning
+efficientnet>=1.1.1
+timm>=0.9.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+kaggle>=1.5.16
+
+# Tamil Language Support
+# indicnlp>=0.1.0  # Not available, using indic-nlp-library instead
