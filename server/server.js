@@ -25,7 +25,7 @@ app.use(cors({
   origin: (origin, callback) => {
     // Allow requests with no origin (mobile apps, curl, Postman)
     if (!origin) return callback(null, true);
-    if (allowedOrigins.includes(origin) || origin.endsWith('.vercel.app')) {
+    if (allowedOrigins.includes(origin) || origin.endsWith('.netlify.app')) {
       return callback(null, true);
     }
     return callback(null, true); // permissive for now — tighten after deploy confirmed
