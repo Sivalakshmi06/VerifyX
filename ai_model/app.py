@@ -19,7 +19,13 @@ from models.tamil_classifier import TamilClassifier
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=list(filter(None, [
+    'http://localhost:3000',
+    'http://localhost:5000',
+    'https://verify-x-mu.vercel.app',
+    os.getenv('FRONTEND_URL', ''),
+    os.getenv('BACKEND_URL', ''),
+])), supports_credentials=True)
 
 # Initialize models
 text_classifier = TextClassifier()

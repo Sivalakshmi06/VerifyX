@@ -20,7 +20,7 @@ const NewsVerification = () => {
 
   const fetchTrendingTopics = async () => {
     try {
-      const response = await axios.get('/api/news/trending');
+      const response = await axios.get('/api/detect/news/trending');
       if (response.data.success) {
         setTrendingTopics(response.data.trending_topics);
       }
@@ -32,7 +32,7 @@ const NewsVerification = () => {
   const fetchAllSources = async () => {
     try {
       setLoading(true);
-      const response = await axios.get('/api/news/all-sources');
+      const response = await axios.get('/api/detect/news/all-sources');
       if (response.data.success) {
         setAllSources(response.data.sources);
       }

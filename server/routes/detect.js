@@ -46,7 +46,7 @@ router.post('/text', auth, async (req, res) => {
       text,
       url,
       language
-    });
+    }, { timeout: 60000 });
 
     const result = aiResponse.data;
     console.log('🤖 AI Response received:', result.prediction, result.confidence);
@@ -147,7 +147,8 @@ router.post('/image', auth, upload.single('image'), async (req, res) => {
         headers: {
           ...formData.getHeaders?.() || {},
           'Content-Type': 'multipart/form-data'
-        }
+        },
+        timeout: 60000
       }
     );
 
@@ -233,7 +234,8 @@ router.post('/emotion-image', auth, upload.single('image'), async (req, res) => 
         headers: {
           ...formData.getHeaders?.() || {},
           'Content-Type': 'multipart/form-data'
-        }
+        },
+        timeout: 60000
       }
     );
 
@@ -299,7 +301,7 @@ router.post('/emotion', auth, async (req, res) => {
     // Call AI API for emotion analysis
     const aiResponse = await axios.post(`${process.env.AI_API_URL}/api/analyze/emotion`, {
       text
-    });
+    }, { timeout: 60000 });
 
     const result = aiResponse.data;
 
@@ -361,7 +363,7 @@ router.post('/news-verify', auth, async (req, res) => {
       text,
       url,
       language
-    });
+    }, { timeout: 60000 });
 
     const result = aiResponse.data;
 
@@ -425,7 +427,7 @@ router.post('/news-search', auth, async (req, res) => {
       url,
       max_results,
       language
-    });
+    }, { timeout: 60000 });
 
     const result = aiResponse.data;
 
@@ -440,6 +442,36 @@ router.post('/news-search', auth, async (req, res) => {
       message: 'Error searching for related news',
       error: error.message
     });
+  }
+});
+
+/**
+ * @route   GET /api/detect/news/trending
+ * @desc    Proxy: get trending topics from AI model
+ * @access  Private
+ */
+router.get('/news/trending', auth, async (req, res) => {
+  try {
+    const aiResponse = await axios.get(`${process.env.AI_API_URL}/api/news/trending`, { timeout: 60000 });
+    res.json(aiResponse.data);
+  } catch (error) {
+    console.error('Trending news proxy error:', error.message);
+    res.status(500).json({ success: false, message: 'Error fetching trending news' });
+  }
+});
+
+/**
+ * @route   GET /api/detect/news/all-sources
+ * @desc    Proxy: get all news sources from AI model
+ * @access  Private
+ */
+router.get('/news/all-sources', auth, async (req, res) => {
+  try {
+    const aiResponse = await axios.get(`${process.env.AI_API_URL}/api/news/all-sources`, { timeout: 60000 });
+    res.json(aiResponse.data);
+  } catch (error) {
+    console.error('All sources proxy error:', error.message);
+    res.status(500).json({ success: false, message: 'Error fetching news sources' });
   }
 });
 
