@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: verifyx-backend
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: AI_API_URL
+        sync: false
+
+  - type: web
+    name: verifyx-ai
+    runtime: python
+    rootDir: ai_model
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: FLASK_PORT
+        value: 5001
