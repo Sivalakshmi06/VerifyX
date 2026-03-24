@@ -226,7 +226,7 @@ const LandingPage = () => {
 
       {/* ── FOOTER ── */}
       <footer className="lp-footer">
-        © 2026 Fake News Detection System — Built with ❤️ by CSE 3rd Year Students
+        © 2026 Fake News Detection System — Built with ❤️ by AI&DS 3rd Year Students
       </footer>
 
     </div>
