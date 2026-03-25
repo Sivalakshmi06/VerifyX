@@ -16,6 +16,10 @@ TESSERACT_AVAILABLE = False
 # Check pytesseract
 try:
     import pytesseract
+    import os
+    # Set path for Windows
+    if os.name == 'nt':
+        pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
     pytesseract.get_tesseract_version()
     TESSERACT_AVAILABLE = True
     print("[OCR] Tesseract OCR available")
