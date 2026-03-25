@@ -475,4 +475,34 @@ router.get('/news/all-sources', auth, async (req, res) => {
   }
 });
 
+/**
+ * @route   GET /api/detect/news/trending
+ * @desc    Proxy trending topics from AI model
+ * @access  Private
+ */
+router.get('/news/trending', auth, async (req, res) => {
+  try {
+    const aiResponse = await axios.get(`${process.env.AI_API_URL}/api/news/trending`, { timeout: 30000 });
+    res.json(aiResponse.data);
+  } catch (error) {
+    console.error('Trending news error:', error.message);
+    res.status(500).json({ success: false, message: 'Error fetching trending news', error: error.message });
+  }
+});
+
+/**
+ * @route   GET /api/detect/news/all-sources
+ * @desc    Proxy all sources from AI model
+ * @access  Private
+ */
+router.get('/news/all-sources', auth, async (req, res) => {
+  try {
+    const aiResponse = await axios.get(`${process.env.AI_API_URL}/api/news/all-sources`, { timeout: 30000 });
+    res.json(aiResponse.data);
+  } catch (error) {
+    console.error('All sources error:', error.message);
+    res.status(500).json({ success: false, message: 'Error fetching news sources', error: error.message });
+  }
+});
+
 module.exports = router;
