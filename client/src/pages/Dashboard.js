@@ -20,9 +20,6 @@ const Dashboard = () => {
         axios.get('/api/dashboard/history?limit=5')
       ]);
       
-      console.log('Analytics response:', analyticsRes.data);
-      console.log('History response:', historyRes.data);
-      
       setAnalytics(analyticsRes.data.data);
       setHistory(historyRes.data.data.analyses || []);
     } catch (error) {
